@@ -18,7 +18,7 @@ package basic;
 		}
 		public  static void subtract(int a, int b)
 		{
-			System.out.println("Result is:" +a*b);
+			System.out.println("Result is:" +(a-b);
 		}
 	}
 
